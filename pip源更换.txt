@@ -2,10 +2,12 @@ C:\Users\Administrator\AppData\Roaming\pip
 
 å»ºç«‹pip.iniæ–‡ä»¶ï¼š
 
+
+
 [global]
 # timeout = 6000 
 index-url = https://pypi.douban.com/simple
 # trusted-host = pypi.douban.com     
 
-
+ githubÓë±¾µØ´Á¬½Ó
 ssh-keygen -t rsa -C "your_email@youremail.com"
